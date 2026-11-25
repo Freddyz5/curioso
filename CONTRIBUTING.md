@@ -31,7 +31,7 @@ El alcance es la capa o el módulo: `core`, `api`, `web`, `auth`, `client-db`, `
 
 ## Labels
 
-- **Capa**: `transversal`, `client-db`, `auth`, `core`, `api`, `web`, `mobile`
+- **Capa**: `inicio`, `client-db`, `auth`, `core`, `api`, `web`, `mobile`
 - `good first issue`: buenas tareas para empezar
 
 ## Milestones

@@ -36,7 +36,8 @@ El alcance es la capa o el módulo: `core`, `api`, `web`, `auth`, `client-db`, `
 
 ## Milestones
 
-Cada fase del proyecto es un milestone (`Fase 0 · Fundaciones`, `Fase 1 · Auth + Groups`, …).
+Cada capa del proyecto es un milestone: `inicio`, `client-db`, `auth`, `core`, `api`, `web`, `mobile`.
+Cuando un milestone llega al 100 %, esa capa no tiene tareas pendientes.
 
 ## Definición de terminado
 
